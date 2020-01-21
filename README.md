@@ -15,7 +15,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
  CSS 
  typeScript
  javascript
- 
+
+## Technical requirements
+ Any web browser but i would recommend google chrome
+
 
 ## Code scaffolding
 
